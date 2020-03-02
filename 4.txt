@@ -1,0 +1,2 @@
+HEAD /wb2/image.png HTTP/1.1
+Host: u20296.kubsu-dev.ru

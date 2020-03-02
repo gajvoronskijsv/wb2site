@@ -1,0 +1,3 @@
+HEAD /wb2/file.tar.gz HTTP/1.1
+Host: u20296.kubsu-dev.ru
+Range: bytes=0-99

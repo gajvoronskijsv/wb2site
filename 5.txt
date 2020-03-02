@@ -1,0 +1,6 @@
+POST /wb2/index.php HTTP/1.1
+Host: u20296.kubsu-dev.ru
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 12
+
+com1=comment
